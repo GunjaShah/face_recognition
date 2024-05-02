@@ -13,7 +13,7 @@ This Python script enables real-time face recognition utilizing a webcam. It emp
 
 # Installation
 
-1. Install Python 3.x from [python.org](https://www.python.org/downloads/).
+1. Install Python 3.9 from [python.org](https://www.python.org/downloads/).
 2. Install the required libraries using pip:
 
    ```bash
