@@ -5,7 +5,7 @@ This Python script enables real-time face recognition utilizing a webcam. It emp
 
 # Requirements
 
-- Python 3.x
+- Python 3.9
 - `face_recognition` library
 - OpenCV (`cv2`)
 - Numpy
