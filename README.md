@@ -34,7 +34,9 @@ This Python script enables real-time face recognition utilizing a webcam. It emp
 # Code Structure
 
 `face_recognition_webcam.py`: The main Python script.
+
 `image_path`: Path to the directory containing images of known individuals. Update this variable with the path to your dataset.
+
 `known_face_encodings`: List to store the face encodings of known individuals.
 `known_face_names`: List to store the names corresponding to the known face encodings.
 `load_known_faces()`: Function to load images from the dataset, encode them, and store the encodings and names.
