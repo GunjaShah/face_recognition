@@ -65,10 +65,13 @@ Annotation: Draw a bounding box around the detected face and label it with the n
 
 # Limitations and Future Improvements
 
-Performance: The script may experience reduced performance with a large number of faces in the dataset.
-Accuracy: The accuracy of face recognition depends on the quality and diversity of the training dataset.
-Speed: Real-time face recognition may be slow on low-end hardware. Optimization techniques can be applied for improved speed.
-Security: This script is for demonstration purposes and may not be suitable for high-security applications without additional measures.
+**Performance**: The script may experience reduced performance with a large number of faces in the dataset.
+
+**Accuracy**: The accuracy of face recognition depends on the quality and diversity of the training dataset.
+
+**Speed**: Real-time face recognition may be slow on low-end hardware. Optimization techniques can be applied for improved speed.
+
+**Security**: This script is for demonstration purposes and may not be suitable for high-security applications without additional measures.
 
 # References
 
