@@ -23,12 +23,12 @@ This Python script enables real-time face recognition utilizing a webcam. It emp
 
 1. Clone or download the code.
 2. Ensure that you have a dataset of images containing one image per person to recognize. Place these images in a directory (`image_path`) specified in the code.
-3. Run the script
+3. Run the ipynb script
 4. A window will open displaying the webcam feed. Detected faces will be annotated with the names of recognized individuals.
 
 # Code Structure
 
-`face_recognition_webcam.py`: The main Python script.
+`face_recognition.ipynb`: The main Jupyter script.
 
 `image_path`: Path to the directory containing images of known individuals. Update this variable with the path to your dataset.
 
