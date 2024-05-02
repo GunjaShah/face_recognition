@@ -23,12 +23,7 @@ This Python script enables real-time face recognition utilizing a webcam. It emp
 
 1. Clone or download the code.
 2. Ensure that you have a dataset of images containing one image per person to recognize. Place these images in a directory (`image_path`) specified in the code.
-3. Run the script:
-
-   ```bash
-   python face_recognition_webcam.py
-   ```
-
+3. Run the script
 4. A window will open displaying the webcam feed. Detected faces will be annotated with the names of recognized individuals.
 
 # Code Structure
