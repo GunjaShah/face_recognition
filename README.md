@@ -71,6 +71,7 @@ Annotation: Draw a bounding box around the detected face and label it with the n
 # References
 
 (https://github.com/ageitgey/face_recognition) library by Adam Geitgey.
+
 [OpenCV Documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/index.html) for image processing and video capture.
 
 
